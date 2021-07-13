@@ -1,0 +1,46 @@
+{
+    "coord":{
+       "lon":-112.0069,
+       "lat":40.3141
+    },
+    "weather":[
+       {
+          "id":804,
+          "main":"Clouds",
+          "description":"overcast clouds",
+          "icon":"04d"
+       }
+    ],
+    "base":"stations",
+    "main":{
+       "temp":92.8,
+       "feels_like":90.3,
+       "temp_min":88.23,
+       "temp_max":100.83,
+       "pressure":1006,
+       "humidity":26,
+       "sea_level":1006,
+       "grnd_level":857
+    },
+    "visibility":10000,
+    "wind":{
+       "speed":17.05,
+       "deg":269,
+       "gust":18.92
+    },
+    "clouds":{
+       "all":90
+    },
+    "dt":1626207880,
+    "sys":{
+       "type":2,
+       "id":2001387,
+       "country":"US",
+       "sunrise":1626178167,
+       "sunset":1626231466
+    },
+    "timezone":-21600,
+    "id":5774215,
+    "name":"Eagle Mountain",
+    "cod":200
+ }
